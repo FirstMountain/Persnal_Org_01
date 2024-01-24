@@ -11,3 +11,4 @@
 >>>>>>> origin/main
 
 충돌 후 다시 crashBranch02 에 저장
+원자?
